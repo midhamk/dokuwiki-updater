@@ -24,8 +24,8 @@ git init && git add first.py push_to_github.sh README.md .gitignore && git commi
 # ========================================
 # EDIT THESE LINES WITH YOUR GITHUB INFO:
 # ========================================
-GITHUB_USERNAME="YOUR_USERNAME"
-GITHUB_REPO="YOUR_REPO"
+GITHUB_USERNAME="midhamk"
+GITHUB_REPO="dokuwiki-updater"
 
 # ========================================
 # No need to edit below this line
